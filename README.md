@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project explores global COVID-19 data to analyze trends in infection rates, death rates, and vaccination progress. Using a variety of SQL techniques, the data is cleaned, transformed, and explored. Additionally, visualizations were created to offer insights into the global impact of the pandemic, helping to illustrate key trends and patterns.
+
 ![image](https://github.com/user-attachments/assets/b5bd9dde-19ef-43c3-bfb6-f9db5a775f39)
 
 ## Key Skills Demonstrated
