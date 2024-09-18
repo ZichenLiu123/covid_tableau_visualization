@@ -51,7 +51,7 @@ These visualizations provide a clear representation of how COVID-19 affected pop
 - **SQL Server**
 - **SQL Queries**: Data exploration, aggregation, CTEs, temp tables, joins, and window functions
 - **Visualization Tools**: Tableau
-- 
+  
 ## Business Impact
 This project provides in-depth analysis and visual insights into the global impact of COVID-19. By focusing on infection rates, death rates, and vaccination progress, the insights can support public health decision-making, resource allocation, and further research into pandemic trends.
 
